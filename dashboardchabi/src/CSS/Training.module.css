@@ -1,0 +1,64 @@
+.grid{
+    display: flex;
+
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+}
+.heading{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.colone{
+    border: 2px solid #0A99FF;;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 17vw;
+    padding: 10px;
+}
+
+.icon{
+    color: green;
+}
+
+.light{
+    color: #A6A6A6;
+}
+.margingrey{
+    color: #A6A6A6;
+    margin-left: 20px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.icons{
+    color: blue;
+}
+
+.coltwo{
+    border: 2px solid #0A99FF;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 30vw;
+    padding: 10px;
+}
+
+.flex{
+    width: 100%;
+    display: flex;
+
+}
+.margintop{
+    margin-top: 150px;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}

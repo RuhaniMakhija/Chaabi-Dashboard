@@ -1,0 +1,40 @@
+
+
+.flexBig{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.box{
+    border: 2px solid #0A99FF;;
+    /* width: 30%; */
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 20px
+}
+.flex{
+    
+    display: flex;
+    justify-content: space-around;
+    gap: 8px;
+    background-color: #E6F4EC;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+.borderGraph{
+    border: 2px solid green;
+    border-radius: 5px;
+    color: green;
+}
+.number{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    color: black;
+}
+.num{
+    margin-top: 7px;
+}
